@@ -6,7 +6,7 @@ import Products from './pages/Products';
 import Receipts from './pages/Receipts';
 import Deliveries from './pages/Deliveries';
 import Transfers from './pages/Transfers';
-import Adjustments from './pages/Adjustment';
+import Adjustments from './pages/Adjustments';
 import Movements from './pages/Movements';
 import Layout from './components/Layout';
 
